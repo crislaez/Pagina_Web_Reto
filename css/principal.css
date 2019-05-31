@@ -1,0 +1,52 @@
+.cabezera{
+    height:250px;
+    width:1500px;
+}
+.cabezera img{
+    height:250px;
+    width:1500px;
+}.contenedor{
+    height:1000px;
+    width:1500px;
+    text-align:center;
+    background-color:#e8e8e8;
+    border-top: 3px solid black;
+    float: left;
+}
+.principal{
+    margin-top: 1.5em;
+    margin-left:1.5em;
+    height:950px;
+    width:1450px;
+   background-color:#e8e8e8;
+   float: left;
+}
+.principal img{
+    height:100px;
+    width:100px;
+    margin: 50px;
+    border-radius: 40%;
+}
+.panel{
+    margin-top: 2em;
+    margin-left:2em;
+    margin-bottom: 2em;
+    height:200px;
+    width:440px;
+    float: left;
+    display: -webkit-inline-flex;
+    background: -moz-linear-gradient(left, rgba(212,228,239,1) 0%, rgba(134,174,204,1) 100%);
+    box-shadow: 9px 9px grey;
+    border-radius: 7px;
+    
+}
+a{
+    color:#2c3e50;
+    text-decoration: none;
+}
+.panel h2{
+    margin-top: 70px;
+    height:auto;
+    width:260px;
+}
+

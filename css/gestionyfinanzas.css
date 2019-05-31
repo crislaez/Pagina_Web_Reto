@@ -1,0 +1,80 @@
+.cabezera{
+    height:250px;
+    width:1500px;
+}
+.cabezera img{
+    height:250px;
+    width:1500px;
+}.contenedor{
+    height:1000px;
+    width:1500px;
+    text-align:center;
+    background-color:#e8e8e8;
+    border-top: 3px solid black;
+    float: left;
+}
+.principal{
+    margin-top: 1.5em;
+    margin-left:1.5em;
+    height:780px;
+    width:1450px;
+   background-color: #e8e8e8;
+  
+   float: left;
+}
+
+
+
+
+.breadcrumb a {
+ font-family: Arial;
+ font-size: 14px;
+ text-decoration: none;
+ padding: 25px;
+ background-color: white;;
+ border-radius: 10px;
+ color: #444;
+ }
+
+.breadcrumb{
+  margin-bottom: 3em;
+}
+.breadcrumb a:last-child {
+      background-color: #e8e8e8;
+}
+
+.caja{
+  margin-top: 1.5em;
+  margin-left: 5em;
+  height:500px;
+  width:600px;
+  background-color:white;
+  float:left;
+  border-radius: 10px;
+
+}
+.Superior{
+  height:100px;
+  width:600px;
+  background-color: #7bffbf;
+  border-radius: 6px;
+  box-shadow: 9px 9px grey;
+}
+
+a{
+     color:#2c3e50;
+    text-decoration: none;
+}
+.medio{
+    height:100px;
+  width:600px;
+  background-color: #7bffbf;
+  border-radius: 6px;
+  box-shadow: 9px 9px grey;
+}
+.Superior:hover{
+   background-color: #6becd0;
+}
+.medio:hover{
+   background-color: #6becd0;
+}
